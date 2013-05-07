@@ -11,8 +11,7 @@ A super simple, interactive, eGram template
 
 ![Image demo](https://raw.github.com/bry/miffy/master/img/miffy_demo.png)
 
-### Game manual
-Location: doc/manual.pdf
+### [Game manual](https://github.com/bry/miffy/raw/master/doc/manual.pdf)
 
 ## Contributing 
 
