@@ -1,0 +1,32 @@
+character_movement_images:
+  images_down: img/miffy_down.bmp
+  images_right: img/miffy_right.bmp
+  images_up: img/miffy_up.bmp
+  images_left: img/miffy_left.bmp
+
+character_images:
+  image_happy_birthday: img/miffy_say_happy_birthday.bmp
+  image_ily: img/miffy_say_ily.bmp
+  image_heart: img/miffy_say_heart.bmp
+  image_nerds_coded_me: img/miffy_say_nerds_coded_me.bmp
+  image_miffy_ouch: img/miffy_say_ouch.bmp
+  image_i_am_cute: img/miffy_say_i_am_cute.bmp
+  image_i_am_sweet: img/miffy_say_i_am_sweet.bmp
+  image_i_am_smart: img/miffy_say_i_am_smart.bmp
+  image_miffy_alone: img/miffy_alone.bmp
+  image_miffy_alone_blood: img/miffy_alone_blood.bmp
+  image_ouch_bubble: img/ouch_bubble.bmp
+  image_miffy_left_blood: img/miffy_left_blood.bmp
+  image_miffy_right_blood: img/miffy_right_blood.bmp
+
+main_window_config:
+  window_title_bar_caption: Happy 28th Birthday Anna! - Birthday Gram
+
+main_window_images:
+  background_image: img/miffy.png
+  image_giftbox: img/giftbox.bmp
+  image_miffy_cake: img/miffy_cake.bmp
+  image_anna: img/anna_bday_wish.bmp
+
+music:
+  background_music: music/Miffy_and_Friends.mp3
