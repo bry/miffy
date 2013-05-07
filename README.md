@@ -9,6 +9,8 @@ A super simple, interactive, eGram template
 
 ### 2. Enjoy
 
+![Image demo](https://raw.github.com/bry/miffy/master/img/miffy_demo.png)
+
 ### Game manual
 Location: doc/manual.pdf
 
