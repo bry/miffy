@@ -1,4 +1,5 @@
 # Cheuky's Birthday eGram
+#   by Bryan and Vouy
 # July 5th, 2012
 
 require './lib/miffy'

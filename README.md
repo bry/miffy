@@ -1,6 +1,8 @@
 ## eGram
 A super simple, interactive, eGram template 
 
+  by Bryan and Vouy
+
 ## Usage 
 
 ### 1. Run gift.rb
