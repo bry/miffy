@@ -1,13 +1,17 @@
 ## eGram
-A super simple, interactive, eGram template 
+A super simple, interactive, eGram template built using [Gosu](http://www.libgosu.org/).
 
   by Bryan and Vouy
 
-## Usage 
+## Usage
+
+### 0. Install [Gosu](https://github.com/jlnr/gosu/wiki/Getting-Started-on-OS-X) Gem
+
+    bundle install
 
 ### 1. Run gift.rb
 
-`ruby gift.rb`
+    ruby gift.rb
 
 ### 2. Enjoy
 
@@ -15,7 +19,7 @@ A super simple, interactive, eGram template
 
 ### [Game manual](https://github.com/bry/miffy/raw/master/doc/manual.pdf)
 
-## Contributing 
+## Contributing
 
 1. [Fork](https://help.github.com/articles/fork-a-repo) this repository
 2. Create a branch
@@ -24,10 +28,10 @@ A super simple, interactive, eGram template
 
 3. Commit your changes
 
-        git commit -m "Added some sweet stuff"
+         git commit -m "Added some sweet stuff"
 
 4. Push your branch
 
-        git push origin my_branch
+         git push origin my_branch
 
 5. Make a [pull request](https://help.github.com/articles/using-pull-requests)
