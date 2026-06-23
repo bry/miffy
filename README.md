@@ -6,7 +6,7 @@ A super simple, interactive, Miffy eGram video game template built using [Gosu](
 ## Usage
 
 ### Dependencies 
-- Ruby 2.6.3
+- Ruby 2.6.3+
 - [Gosu](http://www.libgosu.org/)
 
 ### Install 
@@ -15,7 +15,7 @@ A super simple, interactive, Miffy eGram video game template built using [Gosu](
 
 ### Usage
 
-    ruby gift.rb
+    bundle exec ruby gift.rb
 
 ### Enjoy
 

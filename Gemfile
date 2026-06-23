@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
-ruby '2.6.3'
+# Allow running on newer Rubies while preserving original baseline.
+ruby '>= 2.6.3'
 
-gem 'gosu'
+# gosu 0.8.x is not compatible with modern Rubies.
+gem 'gosu', '>= 1.4'
