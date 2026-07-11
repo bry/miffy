@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # Cheuky's Birthday eGram
 #   by Bryan and Vouy
 # July 5th, 2012
